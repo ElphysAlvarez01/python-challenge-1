@@ -110,6 +110,9 @@ Your receipt total is: $7047.06
 
 ## Summary of How the Code Works Together
 **1. Menu Structure:** A nested dictionary defines the menu categories and items with their respective prices.
+
 **2. User Interaction:** The main loop presents the menu, allows item selection, and collects quantities.
+
 **3. Order Management:** Selected items are stored in an order list with their details.
+
 **4. Summary and Total:** The final order is displayed, including itemized costs and the total amount due.
